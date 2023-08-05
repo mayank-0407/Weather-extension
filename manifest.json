@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Weather-info",
+  "version": "1.0",
+  "description": "Display the current weather for a specific location.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["https://api.openweathermap.org/"]
+}
